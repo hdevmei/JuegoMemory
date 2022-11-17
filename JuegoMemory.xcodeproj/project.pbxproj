@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AF038AEB29130E960084583F /* VictoriaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF038AEA29130E960084583F /* VictoriaViewController.swift */; };
+		AF038AED29130F560084583F /* DerrotaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF038AEC29130F560084583F /* DerrotaViewController.swift */; };
 		AFBB38BA2904829F00C771D5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBB38B92904829F00C771D5 /* AppDelegate.swift */; };
 		AFBB38BC2904829F00C771D5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBB38BB2904829F00C771D5 /* SceneDelegate.swift */; };
 		AFBB38BE2904829F00C771D5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBB38BD2904829F00C771D5 /* ViewController.swift */; };
@@ -17,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AF038AEA29130E960084583F /* VictoriaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VictoriaViewController.swift; sourceTree = "<group>"; };
+		AF038AEC29130F560084583F /* DerrotaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DerrotaViewController.swift; sourceTree = "<group>"; };
 		AFBB38B62904829F00C771D5 /* JuegoMemory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JuegoMemory.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFBB38B92904829F00C771D5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AFBB38BB2904829F00C771D5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +67,8 @@
 				AFBB38BB2904829F00C771D5 /* SceneDelegate.swift */,
 				AFBB38BD2904829F00C771D5 /* ViewController.swift */,
 				AFBB38BF2904829F00C771D5 /* Main.storyboard */,
+				AF038AEC29130F560084583F /* DerrotaViewController.swift */,
+				AF038AEA29130E960084583F /* VictoriaViewController.swift */,
 				AFBB38C22904829F00C771D5 /* Assets.xcassets */,
 				AFBB38C42904829F00C771D5 /* LaunchScreen.storyboard */,
 				AFBB38C72904829F00C771D5 /* Info.plist */,
@@ -143,6 +149,8 @@
 			files = (
 				AFBB38BE2904829F00C771D5 /* ViewController.swift in Sources */,
 				AFBB38BA2904829F00C771D5 /* AppDelegate.swift in Sources */,
+				AF038AED29130F560084583F /* DerrotaViewController.swift in Sources */,
+				AF038AEB29130E960084583F /* VictoriaViewController.swift in Sources */,
 				AFBB38CE2904A07300C771D5 /* mostrarImagenesViewController.swift in Sources */,
 				AFBB38BC2904829F00C771D5 /* SceneDelegate.swift in Sources */,
 			);
