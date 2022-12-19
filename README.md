@@ -17,7 +17,7 @@ Desarrollar una aplicación en *iOS* para **iPhone** y **iPad** que permita juga
 2. Código bien comentado
 3. Sistema de puntuación
 
-`
+```
 gameTimer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(runTimeCode), userInfo: nil, repeats: true)
 
  override func viewWillDisappear(_ animated: Bool) {
@@ -51,7 +51,7 @@ gameTimer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selec
             let VC2 = segue.destination as! ViewController
             VC2.secuenciaBuenaFinal = secuenciaElegidaCompleta
         }
-`
+```
 
 
 ==Beneficios== de practicar la memoria
