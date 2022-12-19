@@ -20,8 +20,6 @@ Desarrollar una aplicación en *iOS* para **iPhone** y **iPad** que permita juga
 `
 gameTimer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(runTimeCode), userInfo: nil, repeats: true)
 
-`
-`
  override func viewWillDisappear(_ animated: Bool) {
         super.viewWillDisappear(animated)
         gameTimer?.invalidate()
