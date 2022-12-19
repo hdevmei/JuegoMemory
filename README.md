@@ -59,7 +59,7 @@ gameTimer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selec
 
 #Funciones adicionales 💥
 - [x] Añadir emoticonos
-- [] Implementar sonido
-- [] Niveles de dificultad
+- [ ] Implementar sonido
+- [ ] Niveles de dificultad
 
 [^1]: Diciembre-2022.
