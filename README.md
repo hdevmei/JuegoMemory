@@ -59,7 +59,7 @@ gameTimer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selec
 ==Beneficios== de practicar la memoria
 (https://www.elbloginfantil.com/7-beneficios-de-los-juegos-de-memoria-para-ninos.html)
 
-#Funciones adicionales
+#Funciones adicionales 💥
 - [x]Añadir emoticonos
 - [] Implementar sonido
 - [] Niveles de dificultad
