@@ -5,3 +5,15 @@ Desarrollar una aplicación en *iOS* para **iPhone** y **iPad** que permita juga
 
 > Los elementos visuales deben adaptarse al tamaño y la orientación del dispositivo cambiando su tamaño y posición para aprovechar toda la pantalla.
 
+
+## Desarrollo de aplicaciones multiplataforma
+#### TSAPP2MA2223
+
+---
+
+##  Requisitos
+
+1. Adaptable
+2. Código bien comentado
+3. Sistema de puntuación
+
